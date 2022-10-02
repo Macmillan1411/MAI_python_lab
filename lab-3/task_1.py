@@ -1,5 +1,5 @@
 
-def total10():
+def total():
     lst = []
     for i in range(10):
         num = eval(input("введите число: "))
@@ -7,7 +7,7 @@ def total10():
 
     return sum(lst)
 
-print(f"сумма чисел = {total10()}")    
+print(f"сумма чисел = {total()}")    
 
 
 
