@@ -1,6 +1,6 @@
-from figures.circle.code import circle_perimeter,circle_area,default_radius
-from figures.triangle.code import triangle_area,triangle_perimeter,def_a,def_b,def_c
-from figures.square.code import square_area,square_perimeter,default_a
+from figures import circle_perimeter,circle_area,default_radius
+from figures import triangle_area,triangle_perimeter,def_a,def_b,def_c
+from figures import square_area,square_perimeter,default_a
 
 
  #circle test cases r=defualt_radius
